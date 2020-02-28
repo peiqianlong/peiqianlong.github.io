@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# VuePress Theme - Yur
 
-You can use the [editor on GitHub](https://github.com/peiqianlong/peiqianlong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![](https://img.shields.io/npm/dt/vuepress-theme-yur.svg)
+![](https://img.shields.io/static/v1.svg?label=VuePress&message=1.3.0&color=informational)
+![](https://img.shields.io/static/v1.svg?label=License&message=MIT&color=critical)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Introduction
 
-### Markdown
+:heart: Yur theme for [VuePress](https://vuepress.vuejs.org)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+:revolving_hearts: [Live Demo](https://www.gleehub.com)
 
-```markdown
-Syntax highlighted code block
+:book: [Docs](https://imwiki.cn/)
 
-# Header 1
-## Header 2
-### Header 3
+## License
 
-- Bulleted
-- List
+[MIT](https://cdn.jsdelivr.net/gh/cnguu/vuepress-theme-yur@master/LICENSE)
 
-1. Numbered
-2. List
+## Thanks
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peiqianlong/peiqianlong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[![JetBrains](https://cdn.jsdelivr.net/gh/cnguu/vuepress-theme-yur@master/jetbrains.svg)](https://www.jetbrains.com/?from=vuepress-theme-yur)
